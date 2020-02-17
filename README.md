@@ -1,0 +1,2 @@
+# FungiBDTheme
+Theme for BetterDiscord.
